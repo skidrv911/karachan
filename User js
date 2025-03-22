@@ -1,0 +1,31 @@
+// 1. Apply CSS styles early
+$("head").append("<style>s, s a:not(:hover) { color: white!important; }</style>");
+
+// 2. Delete cookies early (if needed)
+const cookies = document.cookie.split("; "); 
+
+for (const cookie of cookies) {
+  const [name, value] = cookie.split("=");
+
+  if (name === "password") {
+    document.cookie = `${name}=${value}; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;`;
+  }
+}
+
+// 3. Remove reCAPTCHA token from localStorage
+localStorage.removeItem('_grecaptcha');
+
+// 4. Replace specific words on keyup (without changing case)
+$(document).ready(() => {
+  $("#postform textarea, .fastform textarea").on("keyup", ({ target }) => {
+    target.value = target.value
+      .replace(/xd/g, '#gimbo')
+      .replace(/część/g, '[czesc]')
+      .replace(/prawniku/g, 'prawiku')
+      .replace(/łódzki/g, 'loszki')
+      .replace(/kul/g, '[cool]');
+  });
+});
+
+// 5. Store value in localStorage (can be anywhere)
+localStorage.xD = 'xD';
