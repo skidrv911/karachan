@@ -1,0 +1,273 @@
+google.*##.g:has(a[href*="pathofexile.fandom."])
+google.*##a[href*="pathofexile.fandom."]:upward(1)
+kara.8ch.net/beep.webm
+kara.8ch.net/bee%EF%BB%BFp.webm
+kara.8ch.net/b/src/murmurmurmur.webm
+https://www.youtube.com/embed/j0aAiKSUzJM?autoplay=1
+karachan.org/bolbutthurtu.webm
+karachan.org###czaj
+karachan.org/js/rajzer.js
+karachan.org###blocking-notification
+karachan.org###zjadamsrake
+karachan.org###jesli-zablokujesz-tego-diva-ukraina-odniesie-zwyciestwo
+karachan.org##div.board:style(background-image: none !important)
+http://karachan.org/faza.min.js
+https://karachan.org/wykop/src/1577811355539470976.webm
+https://karachan.org/b/src/1577811355539470976.webm
+
+10.08.2018, 19:06:25 http://boards.4chan.org/r9k/
+
+
+boards.4chan.org###t23675577
+boards.4chan.org###t37842102
+
+karachan.org###kurwa
+karachan.org###canvas
+
+karachan.org/fat%20tuesday.opus
+https://wilchan.org/js/wilno2.js
+https://wilchan.org/js/openings2.js
+https://wilchan.org/js/openings.js
+kiwiszon.org##embed
+kiwiszon.org/css/images/kiwiflash.gif
+kiwiszon.org/lib/javascript/puciaki.js
+
+https://www.freshscat.com/videos/2017/SeveralKinkyClipsOfARealScatGirlWhoLovesEatingShitFromEveryone.mp4
+https://www.youtube.com/sw.js
+
+https://wilchan.org/js/smietnik.mp4$media
+https://wilchan.org/js/smietnik.js
+
+1/13/2020 https://www.twitch.tv
+
+
+www.twitch.tv##.tw-pd-1.tw-justify-content-center.tw-flex-column.tw-flex.highlight
+www.twitch.tv##.tw-relative.tw-justify-content-center.tw-full-width.tw-flex-column.tw-flex.tw-elevation-2.tw-c-background-base.tw-border-t.tw-border-radius-large.tw-border-r.tw-border-l.tw-border-b.community-highlight
+
+https://karachan.org/wykop/src/1584127626835644712.mp4
+
+2021-05-25 https://karachan.org
+
+
+karachan.org##.corona
+
+2021-05-25 https://karachan.org
+
+
+karachan.org##.ticker-wrap
+
+2021-05-29 https://8kun.top
+
+
+8kun.top##.threadads
+
+2021-05-31 https://kohlchan.net
+
+
+kohlchan.net###divMessage
+
+Pokaż spoiler
+
+www.wykop.pl##.wgt-meczyki
+
+2021-06-02 https://controlc.com
+
+
+||controlc.com/redact.png$image
+
+warmane.com/renders/*
+armory.warmane.com##.achievement:not(.locked):style(background: #222 !important)
+warmane.com###page-frame > .frame-corners
+warmane.com###page-frame > .center
+warmane.com##.leftmost-frame
+warmane.com##.rightmost-frame
+warmane.com##.frame-header
+warmane.com##.frame-footer
+warmane.com###page-frame:style(height: 167px !important; margin: 30px auto 0 auto !important)
+warmane.com##body:style(filter: brightness(1.5))
+armory.warmane.com##.size-14.icon-frame:style(width: 24px !important; height: 24px !important)
+armory.warmane.com##.size-14.icon-frame img:style(width: 24px !important; height: 24px !important)
+cdn.warmane.com/wmmv/wmmv.js
+
+2022-02-17 https://boards.4chan.org
+
+
+boards.4chan.org##.center.middlead
+
+2022-03-06 https://www.wykop.pl
+
+
+www.wykop.pl##.clearfix.space.type-light-warning.annotation
+
+2022-06-07 https://boards.4chan.org
+
+
+boards.4chan.org###thread-37842102
+boards.4chan.org###thread-23675577
+
+2022-06-10 https://boards.4channel.org
+
+
+boards.4channel.org##body > .adc-resp-bg
+boards.4channel.org###delform > .adc-resp-bg
+
+2022-06-12 https://boards.4chan.org
+
+
+boards.4chan.org##.adc-resp-bg
+boards.4chan.org##.boardBanner
+boards.4chan.org###blotter
+
+Pokaż spoiler
+
+boards.4channel.org##.boardBanner
+boards.4channel.org###blotter
+
+Pokaż spoiler
+
+8kun.top##body > p.unimportant
+
+Pokaż spoiler
+
+boards.4channel.org##.center.middlead
+
+boards.4channel.org##.adc-resp-bg
+boards.4channel.org##.absBotText
+boards.4chan.org##.absBotText
+
+Pokaż spoiler
+
+boards.4channel.org##.adc-ld.adc-resp
+
+Pokaż spoiler
+
+wiadomosci.wp.pl##.dryn3vs
+
+karachan.org###smok
+
+||karachan.org/js/htmlshiv.js$script,1p
+
+Pokaż spoiler
+
+pilot.wp.pl##.lbHZMl.sc-1x5ckat-0
+
+Pokaż spoiler
+
+boards.4channel.org###delform > .danbo-slot
+boards.4channel.org###danbo-s-t
+
+Pokaż spoiler
+
+boards.4chan.org###danbo-s-t
+boards.4chan.org###content > .danbo-slot
+
+Pokaż spoiler
+
+boards.4channel.org##body > .aboveMidAd
+boards.4channel.org##body > .adl
+boards.4channel.org###delform > .adl
+
+Pokaż spoiler
+
+boards.4chan.org##body > .aboveMidAd
+boards.4chan.org##body > .adl
+boards.4chan.org###delform > .adl
+boards.4chan.org###delform > .danbo-slot
+
+Pokaż spoiler
+
+boards.4channel.org###thread-76759434
+
+karachan.org###choina
+
+||s.4cdn.org/image/xmashat.gif$image
+||s.4cdn.org/js/snow.js$script
+
+Pokaż spoiler
+
+karachan.org###thread-25976438
+
+Pokaż spoiler
+
+karachan.org###t25976438
+karachan.org##.globalMessage
+
+Pokaż spoiler
+
+wykop.pl##.top.pub-slot-wrapper
+
+
+Pokaż spoiler
+
+||v16-webapp.tiktok.com/8543056d12cb16e49cd6ed9e0db67ee5/63d001b5/video/tos/alisg/tos-alisg-pve-0037/db529917c0094a4e81a11920c30a7d8d/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3320&bt=1660&cs=0&ds=3&ft=4b~OyMeQ8Zmo0S3Eb64jVKaJpWrKsdm&mimetype=video_mp4&qs=0&rc=OjM3NjtoODxmNzc5Mzc3M0BpanY8amQ6ZmhzPDMzODgzNEBiXi9fMDMtXzYxXzQ1My5gYSMuMzEzcjRvaG1gLS1kLy1zcw%3D%3D&l=20230124100419708328AE6653400C374D&btag=80000$media
+
+Pokaż spoiler
+
+boards.4channel.org##h3
+boards.4channel.org##hr:nth-of-type(4)
+boards.4channel.org###op
+
+Pokaż spoiler
+
+karachan.org##.rules > td
+karachan.org##.postingMode
+karachan.org###thread-26318579
+karachan.org###t26318579
+
+Pokaż spoiler
+
+chanwiki.com##body:after
+chanwiki.com##+js(aopw, HTMLImageElement.prototype.src)
+
+Pokaż spoiler
+
+pilot.wp.pl##.egFh.sc-mbg16m-1
+pilot.wp.pl##.eJHHmV.sc-mbg16m-2
+
+Pokaż spoiler
+
+||karachan.org/emotki/rzygi.gif$image
+
+Pokaż spoiler
+
+karachan.org##.boardBanner
+
+Pokaż spoiler
+
+boards.4chan.org###thread-124205675
+boards.4chan.org###thread-259848258
+
+deutschekanale.com#?#:-abp-contains(deaktivieren)
+
+riuria.beauty##+js(no-fetch-if, imasdk.googleapis.com)
+
+Pokaż spoiler
+
+||static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b5/Site-background-light/revision/latest?cb=20230712075107$image
+||static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b5/Site-background-light/revision/latest?cb=20230712075107$image
+||static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b5/Site-background-light/revision/latest?cb=20230712075107$image
+||static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b5/Site-background-light/revision/latest?cb=20230712075107$image
+dbz-dokkanbattle.fandom.com##.global-navigation
+
+Pokaż spoiler
+
+boards.4channel.org###t76759434
+
+Pokaż spoiler
+
+boards.4channel.org##.hideMobile.globalMessage
+
+Pokaż spoiler
+
+karachan.org###thread-29514155
+
+badoo.com##.popup--match
+badoo.com##.popup
+badoo.com##div[class*="popup"]
+badoo.com##div[class*="match"]
+badoo.com##div[class*="Modal"]
+badoo.com##div[class^="overlay"]
+
+||karachan.org/js/htmlshiv.js$script,1p
+karachan.org/js/htmlshiv.js$script,1p
+
